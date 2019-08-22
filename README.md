@@ -15,6 +15,7 @@ Simply download and run the python module BlackjackCardCounter.py
 
 # Usage
 ![Sample GUI](https://i.imgur.com/8A37aR8.png)
+
 To change the card counting system used to calculate the true count, click the drop down menu and select the one you wish to use. To change the number of decks in play, either type in an integer into the box or click the up/down buttons. Both of these changes will reset all user inputted card values and true counts.
 
 To count cards, begin typing values of all dealt cards (beginning after a shuffle) in the top left text box. You can format the card values in one of two ways: 
