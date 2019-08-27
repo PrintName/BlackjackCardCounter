@@ -33,6 +33,9 @@ Once the deck is shuffled, press the "Shuffled" button to reset all user inputte
  - 0.1
 	 - Initial release
 
+# Known Issues
+ - On MacOS systems, the "Shuffled" button successfully completes the "Reset" function but does not update the GUI until focus shifts away from the program window.
+
 # Credits
 countingedge.com
 
