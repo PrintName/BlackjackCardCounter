@@ -11,7 +11,7 @@ Card counting is often portrayed in popular media as something only achievable b
  - Qt Designer
 
 # Installation
-Simply download and run the python module BlackjackCardCounter.py
+Simply download and run the executable "Blackjack Card Counter.exe"
 
 # Usage
 ![Sample GUI](https://i.imgur.com/8A37aR8.png)
@@ -32,6 +32,8 @@ Once the deck is shuffled, press the "Shuffled" button to reset all user inputte
 # Version History
  - 0.1
 	 - Initial release
+ - 1.0
+	 - Standalone executable release
 
 # Known Issues
  - On MacOS systems, the "Shuffled" button successfully completes the "Reset" function but does not update the GUI until focus shifts away from the program window.
